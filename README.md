@@ -4,14 +4,14 @@ Objetivo: Treinar e Familiarizar com a linguagem SQL utilizando uma sequência d
 ## Atividades Nível 01
 ### Atividade 2602
 <img width="1092" height="323" alt="Image" src="https://github.com/user-attachments/assets/9f359265-794b-4ac6-8888-a648696b8273" />
-´´´ sql
+```sql
 SELECT
 	name, street
 FROM
 	customers
 WHERE
 	city = 'Porto Alegre';
-´´´
+```
 
 ### Atividade 2603
 
